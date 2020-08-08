@@ -1,6 +1,6 @@
-*
 log.csv
 !*.py
 !.gitignore
 env
 .vscode
+__pycache__
